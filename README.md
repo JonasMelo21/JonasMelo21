@@ -1,15 +1,26 @@
+# Welcome to My GitHub Profile! 👋  
 
-# Jonas Melo
+## About Me  
+Hi there! I'm passionate about **Numerical Analysis**, **Artificial Intelligence**, and **Backend Development**.  
 
-## About Me
+Outside of tech, I focus on maintaining a **healthy lifestyle**—whether it's hitting the gym or fueling my personal growth through self-development books.  
+When I'm not coding or working out, I love immersing myself in **anime** and **action movies**.  
 
-Hi! I'm Jonas Melo, a Computer Science student at Uniceub. I love combining mathematics and programming to solve complex problems. 🧮💻
+Feel free to connect if you share similar interests or want to collaborate on exciting projects!  
 
-## 🔭 Learning with Projects
+## My Projects  
+- **Python Backends:**  
+  - [Backend Project 1: Sistema X-Men](https://github.com/JonasMelo21/Sistema-X-Men.git)  
+    A CRUD system for the **Xavier's Institute for Gifted Youngsters** (yes, the X-Men!). This project manages students, teachers, teams, classes, and missions, bringing the X-Men universe to life.  
 
-- **Backend Development (Python)**: Building a backend system. [Check it out](https://github.com/JonasMelo21/Sistema-X-Men). 🔧🐍
-- **Numerical Analysis (C)**: Exploring numerical computation. [Explore my work](https://github.com/JonasMelo21/Numerical-Analysis-Studies). 📐🔢
+  - [Backend Project 2: TaskMaster](https://github.com/DigogSXD/TaskMaster.git)  
+    A powerful project/task management application developed collaboratively. It helps users organize their projects, prioritize tasks, associate checklists, and even collaborate with team members or collaborators.  
 
-## 📫 Contact Me
+- **Numerical Analysis Repository:**  
+  A dedicated space where I document my learning journey through the book _Numerical Analysis_ by Richard L. Burden and Douglas J. Faires.  
+  [Explore the Numerical Analysis Repo](#)  
 
-Connect via [GitHub](https://github.com/JonasMelo21) or email at jonashonorato4@gmail.com.
+
+---
+
+Thank you for stopping by! Feel free to explore my repositories and reach out for collaborations. 🚀  
