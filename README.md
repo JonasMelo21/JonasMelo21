@@ -18,7 +18,7 @@ Feel free to connect if you share similar interests or want to collaborate on ex
 
 - **Numerical Analysis Repository:**  
   A dedicated space where I document my learning journey through the book _Numerical Analysis_ by Richard L. Burden and Douglas J. Faires.  
-  [Explore the Numerical Analysis Repo](#)  
+  [Explore the Numerical Analysis Repo](https://github.com/JonasMelo21/Numerical-Analysis-Studies.git)  
 
 
 ---
