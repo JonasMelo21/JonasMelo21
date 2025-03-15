@@ -13,7 +13,7 @@ Feel free to connect if you share similar interests or want to collaborate on ex
   - [Backend Project 1: Sistema X-Men](https://github.com/JonasMelo21/Sistema-X-Men.git)  
     A CRUD system for the **Xavier's Institute for Gifted Youngsters** (yes, the X-Men!). This project manages students, teachers, teams, classes, and missions, bringing the X-Men universe to life.  
 
-  - [Backend Project 2: TaskMaster](https://github.com/DigogSXD/TaskMaster.git)  
+  - [Backend Project 2: TaskMaster](https://github.com/JonasMelo21/TaskMaster.git)  
     A powerful project/task management application developed collaboratively. It helps users organize their projects, prioritize tasks, associate checklists, and even collaborate with team members or collaborators.  
 
 - **Numerical Analysis Repository:**  
