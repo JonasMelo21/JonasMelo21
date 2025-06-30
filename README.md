@@ -1,56 +1,130 @@
-# Bem-vindo ao meu Perfil no GitHub! 👋  
+# 👨‍💻 Jonas Honorato | GitHub Profile
 
-## Sobre Mim  
-Olá! Sou apaixonado por **Análise Numérica**, **Inteligência Artificial** e **Desenvolvimento Backend**.  
-
-Fora do mundo tech, foco em manter um **estilo de vida saudável** — seja indo à academia ou cultivando meu crescimento pessoal com livros de desenvolvimento pessoal.  
-Quando não estou programando ou treinando, gosto de me envolver com **animes** e **filmes de ação**.  
-
-Sinta-se à vontade para se conectar se tiver interesses semelhantes ou quiser colaborar em projetos empolgantes!  
+📝 *This README is available in English and Portuguese. Scroll down for the PT-BR version.*  
+📝 *Este README está disponível em inglês e português. Role a página para a versão em português.*
 
 ---
 
-## 🧠 Ciência de Dados com Raciocínio Analítico  
-> Projetos com foco em **limpeza robusta**, **validação estatística** e **modelos interpretáveis**.
+## 🚀 About Me
 
-- [**Projeto 01: Classificação da Performance de Estudantes**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb)  
-  Corrigi um erro crítico nos rótulos do Kaggle, utilizei **SMOTE de forma segura**, e atingi **96% de acurácia** com F1-score equilibrado.  
+Hi there! I'm Jonas — a developer passionate about **Numerical Analysis**, **Artificial Intelligence**, and **Backend Development**.
 
-- [**Projeto 02: Previsão de Churn com Testes Estatísticos + MLP**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb)  
-  Validei hipóteses de negócio com testes como **Qui-quadrado, Mann-Whitney e Kruskal-Wallis** antes de aplicar redes neurais.  
+When I’m not coding, I’m working out, reading self-development books, or watching anime and action movies.
 
-- [**Projeto 03: Estimativa e Classificação de Preços de Aluguel**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb)  
-  Usei **Regressão Linear explicável** (R² = 0.82) e classifiquei imóveis como caros/baratos com **84% de acurácia**.
-
-🔍 Todos os projetos trazem **insights práticos**, foco em **negócio**, e refletem minha capacidade de tomar decisões baseadas em dados.  
-📂 Repositório completo → [Estudos em Ciência de Dados](https://github.com/JonasMelo21/data-science-studies)
+I love solving real-world problems with code and logic. Always open to collaboration, especially in data-driven and high-impact projects.
 
 ---
 
-## 🛠️ Meus Projetos em Backend  
-- [**Sistema X-Men**](https://github.com/JonasMelo21/Sistema-X-Men.git)  
-  Um CRUD completo para o Instituto Xavier (X-Men), gerenciando alunos, professores, turmas e missões.
+## 🧠 Data Science with Analytical Thinking
+
+Projects that combine **robust cleaning**, **statistical validation**, and **interpretable models**:
+
+| 🔢 Project | 📌 Description | 🚀 Results |
+|-----------|----------------|------------|
+| [**Student Performance Classification**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb) | Fixed dataset errors, handled imbalance with SMOTE, built clean pipelines | ✅ Accuracy: 96% |
+| [**Churn Prediction (Stats + MLP)**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb) | Hypothesis testing (Chi², Mann-Whitney), MLP with real-world insights | 📉 F1-Score: 59% |
+| [**Rent Price Regression & Classification**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb) | Linear regression and explainable classification of rental prices | 📊 R²: 0.82 / Acc: 84% |
+
+🔍 Full repo: [Data Science Studies](https://github.com/JonasMelo21/data-science-studies)
+
+---
+
+## ⚙️ Backend Projects (Python)
+
+- [**X-Men System**](https://github.com/JonasMelo21/Sistema-X-Men.git)  
+  Full CRUD for Xavier's Institute — students, teachers, missions, teams, and more.
 
 - [**TaskMaster**](https://github.com/JonasMelo21/TaskMaster.git)  
-  Gerenciador de projetos/tarefas colaborativo, com foco em produtividade, checklists e times.
+  Collaborative project manager with checklists, priorities, and task tracking.
 
 ---
 
-## 📘 Estudos em Análise Numérica com Implementações em C  
-> Resolução sistemática dos principais tópicos do livro _Numerical Analysis_ (Burden & Faires, 10ª edição).
+## 📘 Numerical Analysis (with C)
 
-O repositório documenta em detalhes minha jornada prática na resolução de exercícios que envolvem:
+> Based on the book *Numerical Analysis* by Burden & Faires (10th Ed.)
 
-- 📌 Raízes de equações não-lineares (ex: Método de Newton, Bisseção, Secante)  
-- 📌 Sistemas lineares e fatorações (LU, Gauss e Gauss-Jordan)  
-- 📌 Interpolação e aproximação (ex: Polinômios de Lagrange e Newton)  
-- 📌 Derivação e Integração Numérica (Trapézios, Simpson, Diferenças Finitas)  
-- 📌 Problemas de Valor Inicial e de Contorno em EDOs  
+I implemented and documented solutions in **C language** for problems like:
 
-Todos os algoritmos foram implementados em **linguagem C**, com código limpo, modular e **bem comentado**, reforçando tanto a lógica matemática quanto a aplicação computacional.
+- 🔢 Non-linear roots (Bisection, Newton, Secant)
+- 🔁 Linear systems (LU decomposition, Gauss, Gauss-Jordan)
+- 🧩 Interpolation (Lagrange, Newton)
+- 📐 Numerical integration & differentiation (Trapezoid, Simpson)
+- 🧮 Initial and boundary value problems (ODEs)
 
+📂 All code is **well-commented and modular**.  
+🔗 [Check the Repo](https://github.com/JonasMelo21/Numerical-Analysis-Studies.git)
+
+---
+
+## 🧰 Tech Stack Overview
+
+| 💻 Languages | ⚙️ Frameworks & Tools | 📊 Focus Areas |
+|-------------|----------------------|----------------|
+| Python, C, SQL | FastAPI, Pandas, Scikit-learn | Data Science, Numerical Analysis |
+| JavaScript (learning) | Bootstrap, Git, VS Code | Backend Dev, Statistical Thinking |
+
+---
+
+## 🇧🇷 Versão em Português
+
+## 🚀 Sobre Mim
+
+Olá! Me chamo Jonas — sou desenvolvedor apaixonado por **Análise Numérica**, **Inteligência Artificial** e **Desenvolvimento Backend**.
+
+Fora do código, me dedico à academia, livros de desenvolvimento pessoal, animes e filmes de ação.
+
+Gosto de resolver problemas reais com lógica e programação. Estou sempre aberto a colaborações em projetos com impacto prático.
+
+---
+
+## 🧠 Ciência de Dados com Raciocínio Analítico
+
+Projetos com foco em **limpeza robusta**, **validação estatística** e **modelos interpretáveis**:
+
+| 🔢 Projeto | 📌 Descrição | 🚀 Resultados |
+|-----------|--------------|---------------|
+| [**Classificação de Estudantes**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb) | Corrigi erros críticos do dataset, usei SMOTE com segurança e criei pipelines limpas | ✅ Acurácia: 96% |
+| [**Churn com Estatística + MLP**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb) | Testes de hipótese (Qui², Mann-Whitney) + rede neural com insights reais | 📉 F1-Score: 59% |
+| [**Preço de Aluguel**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb) | Regressão linear explicável + classificação de caro/barato | 📊 R²: 0.82 / Acc: 84% |
+
+🔍 Repositório completo: [Estudos em Ciência de Dados](https://github.com/JonasMelo21/data-science-studies)
+
+---
+
+## ⚙️ Projetos Backend (Python)
+
+- [**Sistema X-Men**](https://github.com/JonasMelo21/Sistema-X-Men.git)  
+  CRUD completo do Instituto Xavier — alunos, professores, turmas, missões e mais.
+
+- [**TaskMaster**](https://github.com/JonasMelo21/TaskMaster.git)  
+  Gerenciador de projetos colaborativo com prioridades, checklists e produtividade.
+
+---
+
+## 📘 Análise Numérica (com C)
+
+> Baseado no livro *Numerical Analysis* de Burden & Faires (10ª edição)
+
+Implementei e documentei soluções em **linguagem C** para:
+
+- 🔢 Raízes de equações (Bisseção, Newton, Secante)
+- 🔁 Sistemas lineares (LU, Gauss, Gauss-Jordan)
+- 🧩 Interpolação (Lagrange, Newton)
+- 📐 Integração e derivação numérica (Trapézio, Simpson)
+- 🧮 Problemas de valor inicial e de contorno (EDOs)
+
+📂 Todo o código está **modularizado e bem comentado**.  
 🔗 [Ver Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies.git)
 
 ---
 
-Obrigado por visitar! Explore meus repositórios e fique à vontade para me chamar para trocas de ideias ou colaborações. 🚀
+## 🧰 Visão Geral das Tecnologias
+
+| 💻 Linguagens | ⚙️ Ferramentas & Frameworks | 📊 Focos |
+|--------------|----------------------------|---------|
+| Python, C, SQL | FastAPI, Pandas, Scikit-learn | Ciência de Dados, Análise Numérica |
+| JavaScript (em aprendizado) | Bootstrap, Git, VS Code | Backend, Pensamento Estatístico |
+
+---
+
+🎯 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato para colaborações. 🚀
