@@ -1,3 +1,23 @@
+<!-- Banner opcional (adicione sua imagem no lugar do link abaixo) -->
+<p align="center">
+  <img src="https://your-image-url/banner.png" alt="Banner Jonas Honorato"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JonasMelo21&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/JonasMelo21?label=Followers&style=for-the-badge"/>
+</p>
+
+---
+
 # 👨‍💻 Jonas Honorato | GitHub Profile
 
 📝 *This README is available in English and Portuguese. Scroll down for the PT-BR version.*  
@@ -65,7 +85,19 @@ I implemented and documented solutions in **C language** for problems like:
 
 ---
 
-## 🇧🇷 Versão em Português
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasMelo21&show_icons=true&theme=github_dark&hide=prs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+# 🇧🇷 Versão em Português
 
 ## 🚀 Sobre Mim
 
