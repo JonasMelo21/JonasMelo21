@@ -35,15 +35,35 @@ I love solving real-world problems with code and logic. Always open to collabora
 
 ---
 
-## 🧠 Data Science with Analytical Thinking
+<h3 align="center">🧠 Data Science Projects</h3>
+<p>Projects with robust data cleaning and pre processing, statistical validation and interpretable models</p>
 
-Projects that combine **robust cleaning**, **statistical validation**, and **interpretable models**:
-
-| 🔢 Project | 📌 Description | 🚀 Results |
-|-----------|----------------|------------|
-| [**Student Performance Classification**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb) | Fixed dataset errors, handled imbalance with SMOTE, built clean pipelines | ✅ Accuracy: 96% |
-| [**Churn Prediction (Stats + MLP)**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb) | Hypothesis testing (Chi², Mann-Whitney), MLP with real-world insights | 📉 F1-Score: 59% |
-| [**Rent Price Regression & Classification**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb) | Linear regression and explainable classification of rental prices | 📊 R²: 0.82 / Acc: 84% |
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">🔢 Project</th>
+      <th align="left">📌 Description</th>
+      <th align="left">🚀 Results</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb"><strong>Student Performance Classification</strong></a></td>
+      <td>Fixed target label errors from Kaggle, handled imbalance using post-split SMOTE, built clean pipelines with robust metrics.</td>
+      <td>✅ Accuracy: 96%<br/>📊 F1-Score (macro): 0.96</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb"><strong>Churn Prediction (Stats + MLP)</strong></a></td>
+      <td>Combined hypothesis testing (Chi², Mann-Whitney, Kruskal-Wallis) with neural network modeling.</td>
+      <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb"><strong>Rent Price Prediction</strong></a></td>
+      <td>Linear regression with interpretable coefficients and rental classification (cheap vs expensive).</td>
+      <td>📊 R²: 0.82<br/>✅ Accuracy: 84%</td>
+    </tr>
+  </tbody>
+</table>
 
 🔍 Full repo: [Data Science Studies](https://github.com/JonasMelo21/data-science-studies)
 
@@ -76,12 +96,51 @@ I implemented and documented solutions in **C language** for problems like:
 
 ---
 
-## 🧰 Tech Stack Overview
+<h3 align="center">🧰 Tech Stack Overview</h3>
 
-| 💻 Languages | ⚙️ Frameworks & Tools | 📊 Focus Areas |
-|-------------|----------------------|----------------|
-| Python, C, SQL | FastAPI, Pandas, Scikit-learn | Data Science, Numerical Analysis |
-| JavaScript (learning) | Bootstrap, Git, VS Code | Backend Dev, Statistical Thinking |
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">💻 Languages</th>
+      <th align="left">⚙️ Frameworks & Tools</th>
+      <th align="left">📊 Focus Areas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python<br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C<br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20"/> FastAPI<br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas<br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="20"/> Scikit-learn
+      </td>
+      <td>
+        🧠 Data Science<br/>
+        📘 Numerical Analysis<br/>
+        🛠️ Backend Development
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript (learning)
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap<br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git<br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code
+      </td>
+      <td>
+        🧪 Statistical Thinking<br/>
+        🎨 Frontend Skills<br/>
+        🧱 System Design (learning)
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -109,15 +168,34 @@ Gosto de resolver problemas reais com lógica e programação. Estou sempre aber
 
 ---
 
-## 🧠 Ciência de Dados com Raciocínio Analítico
-
-Projetos com foco em **limpeza robusta**, **validação estatística** e **modelos interpretáveis**:
-
-| 🔢 Projeto | 📌 Descrição | 🚀 Resultados |
-|-----------|--------------|---------------|
-| [**Classificação de Estudantes**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb) | Corrigi erros críticos do dataset, usei SMOTE com segurança e criei pipelines limpas | ✅ Acurácia: 96% |
-| [**Churn com Estatística + MLP**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb) | Testes de hipótese (Qui², Mann-Whitney) + rede neural com insights reais | 📉 F1-Score: 59% |
-| [**Preço de Aluguel**](https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb) | Regressão linear explicável + classificação de caro/barato | 📊 R²: 0.82 / Acc: 84% |
+<h3 align="center">🧠 Projetos de Ciência de Dados</h3>
+<p allign="center">Projetos com foco em <STRONG>limpeza robusta</STRONG>, <strong>validação estatística</strong> e <strong>modelos interpretáveis</strong></p>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">🔢 Projeto</th>
+      <th align="left">📌 Descrição</th>
+      <th align="left">🚀 Resultados</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb"><strong>Classificação de Estudantes</strong></a></td>
+      <td>Corrigi erros nos rótulos da variável alvo, tratei o desbalanceamento com SMOTE após o split e construí pipelines limpas.</td>
+      <td>✅ Acurácia: 96%<br/>📊 F1-Score (macro): 0.96</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb"><strong>Churn com Estatística + MLP</strong></a></td>
+      <td>Testes estatísticos (Qui², Mann-Whitney, Kruskal-Wallis) combinados com rede neural.</td>
+      <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb"><strong>Previsão de Aluguel</strong></a></td>
+      <td>Regressão linear com coeficientes interpretáveis e classificação (caro vs barato).</td>
+      <td>📊 R²: 0.82<br/>✅ Acurácia: 84%</td>
+    </tr>
+  </tbody>
+</table>
 
 🔍 Repositório completo: [Estudos em Ciência de Dados](https://github.com/JonasMelo21/data-science-studies)
 
