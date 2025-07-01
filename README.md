@@ -48,17 +48,17 @@ I love solving real-world problems with code and logic. Always open to collabora
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb"><strong>Student Performance Classification</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-project-01-student-performance-classification-1"><strong>Student Performance Classification</strong></a></td>
       <td>Fixed target label errors from Kaggle, handled imbalance using post-split SMOTE, built clean pipelines with robust metrics.</td>
       <td>✅ Accuracy: 96%<br/>📊 F1-Score (macro): 0.96</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb"><strong>Churn Prediction (Stats + MLP)</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks"><strong>Churn Prediction (Stats + MLP)</strong></a></td>
       <td>Combined hypothesis testing (Chi², Mann-Whitney, Kruskal-Wallis) with neural network modeling.</td>
       <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/projeto3.ipynb"><strong>Rent Price Prediction</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-project-03-rent-price-prediction-with-regression--classification"><strong>Rent Price Prediction</strong></a></td>
       <td>Linear regression with interpretable coefficients and rental classification (cheap vs expensive).</td>
       <td>📊 R²: 0.82<br/>✅ Accuracy: 84%</td>
     </tr>
@@ -180,24 +180,24 @@ Gosto de resolver problemas reais com lógica e programação. Estou sempre aber
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto1.ipynb"><strong>Classificação de Estudantes</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-projeto-01-classifica%C3%A7%C3%A3o-da-performance-de-estudantes-1"><strong>Classificação de Estudantes</strong></a></td>
       <td>Corrigi erros nos rótulos da variável alvo, tratei o desbalanceamento com SMOTE após o split e construí pipelines limpas.</td>
       <td>✅ Acurácia: 96%<br/>📊 F1-Score (macro): 0.96</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto2.ipynb"><strong>Churn com Estatística + MLP</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-projeto-02-previs%C3%A3o-de-churn-com-eda-testes-estat%C3%ADsticos-e-rede-neural"><strong>Churn com Estatística + MLP</strong></a></td>
       <td>Testes estatísticos (Qui², Mann-Whitney, Kruskal-Wallis) combinados com rede neural.</td>
       <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb"><strong>Previsão de Aluguel</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-projeto-03-previs%C3%A3o-de-aluguel-com-regress%C3%A3o-linear-e-classifica%C3%A7%C3%A3o"><strong>Previsão de Aluguel</strong></a></td>
       <td>Regressão linear com coeficientes interpretáveis e classificação (caro vs barato).</td>
       <td>📊 R²: 0.82<br/>✅ Acurácia: 84%</td>
     </tr>
   </tbody>
 </table>
 
-🔍 Repositório completo: [Estudos em Ciência de Dados](https://github.com/JonasMelo21/data-science-studies)
+🔍 Repositório completo: [Estudos em Ciência de Dados](https://github.com/JonasMelo21/Data_Science_Studies/)
 
 ---
 
@@ -224,7 +224,7 @@ Implementei e documentei soluções em **linguagem C** para:
 - 🧮 Problemas de valor inicial e de contorno (EDOs)
 
 📂 Todo o código está **modularizado e bem comentado**.  
-🔗 [Ver Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies.git)
+🔗 [Ver Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies/)
 
 ---
 
