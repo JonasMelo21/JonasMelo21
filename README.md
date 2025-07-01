@@ -58,14 +58,14 @@ I love solving real-world problems with code and logic. Always open to collabora
       <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/JonasMelo21/data-science-studies/blob/main/projeto3.ipynb"><strong>Rent Price Prediction</strong></a></td>
+      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/projeto3.ipynb"><strong>Rent Price Prediction</strong></a></td>
       <td>Linear regression with interpretable coefficients and rental classification (cheap vs expensive).</td>
       <td>📊 R²: 0.82<br/>✅ Accuracy: 84%</td>
     </tr>
   </tbody>
 </table>
 
-🔍 Full repo: [Data Science Studies](https://github.com/JonasMelo21/data-science-studies)
+🔍 Full repo: [Data Science Studies](https://github.com/JonasMelo21/Data_Science_Studies)
 
 ---
 
