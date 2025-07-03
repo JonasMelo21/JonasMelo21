@@ -1,6 +1,14 @@
-<!-- Banner opcional (adicione sua imagem no lugar do link abaixo) -->
+<!-- Banner opcional -->
 <p align="center">
   <img src="https://your-image-url/banner.png" alt="Banner Jonas Honorato"/>
+</p>
+
+<!-- Destaque para o LinkedIn -->
+<p align="center">
+  <strong>📫 Let's connect on LinkedIn:</strong><br/>
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Melo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jonas Melo"/>
+  </a>
 </p>
 
 <p align="center">
