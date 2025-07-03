@@ -5,12 +5,13 @@
 
 <!-- Destaque para o LinkedIn -->
 <p align="center">
-  <strong>📫 Let's connect on LinkedIn:</strong><br/>
+  <strong>📫Meu Perfil no LinkedIn:</strong><br/>
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Melo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jonas Melo"/>
   </a>
 </p>
 
+<p align="center">Skills Técnicas</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -24,13 +25,6 @@
   <img src="https://img.shields.io/github/followers/JonasMelo21?label=Followers&style=for-the-badge"/>
 </p>
 
-
-<!-- Link pro Linkedin -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Jonas Honorato"/>
-  </a>
-</p>
 
 ---
 
