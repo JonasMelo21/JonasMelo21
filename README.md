@@ -4,8 +4,9 @@
 
 # 👨‍💻 Jonas Honorato | GitHub Profile
 
-📝 *This README is available in English and Portuguese. [Click Here]() for the PT-BR version.*  
-📝 *Este README está disponível em inglês e português. [Clique aqui]() para a versão em português.*
+📝 *This README is available in English and Portuguese. You can keep reading it in English or  [Click Herefor the PT-BR version.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
+
+📝 *Este README está disponível em inglês e português. Continue lendo se quiser em inglês ou [Clique aqui  para a versão em português.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
 
 <!-- Destaque para o LinkedIn -->
 <p align="center">
