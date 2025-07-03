@@ -16,6 +16,14 @@
   <img src="https://img.shields.io/github/followers/JonasMelo21?label=Followers&style=for-the-badge"/>
 </p>
 
+
+<!-- Link pro Linkedin -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Jonas Honorato"/>
+  </a>
+</p>
+
 ---
 
 # 👨‍💻 Jonas Honorato | GitHub Profile
