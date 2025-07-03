@@ -1,5 +1,3 @@
-
-
 ---
 
 # 👨‍💻 Jonas Honorato | GitHub Profile
