@@ -1,254 +1,164 @@
-# 👨‍💻 Jonas Honorato | GitHub Profile
+# 👨‍💻 Jonas Honorato | Data Engineer & ML Developer
 
-📝 *This README is available in English and Portuguese. You can keep reading in English or [Click here for the PT-BR version.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
+🔍 *"Building robust data pipelines and interpretable ML models — from theory to production."*  
+📌 **Currently**: Data Engineering Intern @ BBTS (Banco do Brasil Tecnologias e Serviços)  
+🌱 **Focus**: End-to-end Data Projects (ETL → ML → MLOps) + Backend Development  
 
-📝 *Este README está disponível em inglês e português. Continue lendo em inglês ou [clique aqui para a versão em português.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
-
----
-
-<!-- Destaque para o LinkedIn -->
 <p align="center">
-  <strong>📫 My Profile on LinkedIn:</strong><br/>
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Melo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jonas Melo"/>
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<!-- Destaque para o artigo no Medium -->
-<p align="center">
-  <strong>✍️ My Latest Article on Medium:</strong><br/>
   <a href="https://medium.com/@jonashonorato4/desabafos-de-um-jovem-que-descobriu-que-a-vida-real-%C3%A9-s%C3%B3-%C3%A1lgebra-linear-com-interface-bonita-7bb6b417e481" target="_blank">
-    <img src="https://img.shields.io/badge/Read%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article Badge"/>
+    <img src="https://img.shields.io/badge/My%20Tech%20Article-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
-<!-- Habilidades Técnicas -->
-<p align="center">Technical Skills</p>
+---
+
+## 🛠️ Core Skills  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF6C37?style=for-the-badge&logo=azure-databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
+**Data Engineering**  
+`Python` | `SQL` | `ETL` | `Spark` | `Airflow` | `Azure Data Factory`  
+
+**ML/MLOps**  
+`Scikit-learn` | `Feature Engineering` | `Statistical Validation` | `MLflow` | `Azure Databricks`  
+
+**Data Visualization**  
+`Power BI` | `Matplotlib & Seaborn` | `Excel`  | `Plotly`
+
+
+**Backend**  
+`FastAPI` | `PostgreSQL` | `System Design` | `Azure DevOps`  
+
+
+**Numerical Computing**  
+`C` | `Algorithms` | `Optimization` | `Numerical Calculus` | `Numerical Linear Algebra`
+
+---
+
+## 🚀 Highlighted Projects
+
+### 🔍 Data Science & ML
+| Project | Description | Results | Technologies |
+|---------|-------------|---------|--------------|
+| **[Student Performance Classifier](https://github.com/JonasMelo21/Data_Science_Studies#-project-01-student-performance-classification-1)** | Fixed Kaggle label errors, SMOTE imbalance handling, clean pipelines | ✅ 96% Accuracy | `Pandas` `SMOTE` `GridSearch` |
+| **[Churn Prediction (Stats + MLP)](https://github.com/JonasMelo21/Data_Science_Studies#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks)** | Combined hypothesis testing (Chi², Mann-Whitney) with neural networks | 📈 67% Recall | `SciPy` `TensorFlow` `SHAP` |
+| **[Rent Price Prediction](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)** | Linear regression + price classification (business interpretable) | 📊 R² 0.82 | `StatsModels` `Matplotlib` |
+
+### ⚙️ Backend Systems
+- **[X-Men Management System](https://github.com/JonasMelo21/Sistema-X-Men)**  
+  Full CRUD for mutant academy with relational DB design (`FastAPI` `SQLAlchemy` `Bootstrap`)
+
+- **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
+  Collaborative task manager with priority queues (`Python` `JSON` `CLI`)
+
+### 📐 Numerical Analysis (C)
+Implemented algorithms from *Burden & Faires*:  
+`Non-linear Solvers` | `Matrix Decomposition` | `ODE Solvers`  
+🔗 [Repository](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
+
+---
+
+## 📈 GitHub Pulse
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JonasMelo21&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/JonasMelo21?label=Followers&style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 About Me
-
-Hi there! I'm Jonas — a developer passionate about **Numerical Analysis**, **Artificial Intelligence**, and **Backend Development**.
-
-When I’m not coding, I’m working out, reading self-development books, or watching anime and action movies.
-
-I love solving real-world problems with code and logic. Always open to collaboration, especially in data-driven and high-impact projects.
-
----
-
-<h3 align="center">🧠 Data Science Projects</h3>
-<p>Projects with robust data cleaning and pre processing, statistical validation and interpretable models</p>
-
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="left">🔢 Project</th>
-      <th align="left">📌 Description</th>
-      <th align="left">🚀 Results</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-project-01-student-performance-classification-1"><strong>Student Performance Classification</strong></a></td>
-      <td>Fixed target label errors from Kaggle, handled imbalance using post-split SMOTE, built clean pipelines with robust metrics.</td>
-      <td>✅ Accuracy: 96%<br/>📊 F1-Score (macro): 0.96</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks"><strong>Churn Prediction (Stats + MLP)</strong></a></td>
-      <td>Combined hypothesis testing (Chi², Mann-Whitney, Kruskal-Wallis) with neural network modeling.</td>
-      <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-project-03-rent-price-prediction-with-regression--classification"><strong>Rent Price Prediction</strong></a></td>
-      <td>Linear regression with interpretable coefficients and rental classification (cheap vs expensive).</td>
-      <td>📊 R²: 0.82<br/>✅ Accuracy: 84%</td>
-    </tr>
-  </tbody>
-</table>
-
-🔍 Full repo: [Data Science Studies](https://github.com/JonasMelo21/Data_Science_Studies)
-
----
-
-## ⚙️ Backend Projects (Python)
-
-- [**X-Men System**](https://github.com/JonasMelo21/Sistema-X-Men.git)  
-  Full CRUD for Xavier's Institute — students, teachers, missions, teams, and more.
-
-- [**TaskMaster**](https://github.com/JonasMelo21/TaskMaster.git)  
-  Collaborative project manager with checklists, priorities, and task tracking.
-
----
-
-## 📘 Numerical Analysis (with C)
-
-> Based on the book *Numerical Analysis* by Burden & Faires (10th Ed.)
-
-I implemented and documented solutions in **C language** for problems like:
-
-- 🔢 Non-linear roots (Bisection, Newton, Secant)
-- 🔁 Linear systems (LU decomposition, Gauss, Gauss-Jordan)
-- 🧩 Interpolation (Lagrange, Newton)
-- 📐 Numerical integration & differentiation (Trapezoid, Simpson)
-- 🧮 Initial and boundary value problems (ODEs)
-
-📂 All code is **well-commented and modular**.  
-🔗 [Check the Repo](https://github.com/JonasMelo21/Numerical-Analysis-Studies.git)
-
----
-
-<h3 align="center">🧰 Tech Stack Overview</h3>
-
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="left">💻 Languages</th>
-      <th align="left">⚙️ Frameworks & Tools</th>
-      <th align="left">📊 Focus Areas</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python<br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> C<br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20"/> FastAPI<br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Pandas<br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="20"/> Scikit-learn
-      </td>
-      <td>
-        🧠 Data Science<br/>
-        📘 Numerical Analysis<br/>
-        🛠️ Backend Development
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript (learning)
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20"/> Bootstrap<br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git<br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/> VS Code
-      </td>
-      <td>
-        🧪 Statistical Thinking<br/>
-        🎨 Frontend Skills<br/>
-        🧱 System Design (learning)
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasMelo21&show_icons=true&theme=github_dark&hide=prs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasMelo21&theme=github-dark-blue" alt="Commit Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark&hide=html,css" alt="Top Langs"/>
 </p>
 
 ---
 
-# 🇧🇷 Versão em Português
+## 🌟 What Defines My Work
+- **ML with Engineering Rigor**: Focus on reproducible pipelines over one-off models  
+- **Cloud-Native Approach**: Leverage Azure stack for scalable data solutions  
+- **Production Mindset**: From notebooks to deployable systems (learning MLOps)  
+- **Full Pipeline Awareness**: From raw data to business insights  
 
-## 🚀 Sobre Mim
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
 
-Olá! Me chamo Jonas — sou desenvolvedor apaixonado por **Análise Numérica**, **Inteligência Artificial** e **Desenvolvimento Backend**.
+---
+<details>
+<summary>🇧🇷 Versão em Português (Clique para expandir)</summary>
 
-Fora do código, me dedico à academia, livros de desenvolvimento pessoal, animes e filmes de ação.
+# 👨‍💻 Jonas Honorato | Engenheiro de Dados & Desenvolvedor ML
 
-Gosto de resolver problemas reais com lógica e programação. Estou sempre aberto a colaborações em projetos com impacto prático.
+🔍 *"Construindo pipelines robustos e modelos de ML interpretáveis — da teoria à produção."*  
+📌 **Atualmente**: Estagiário em Engenharia de Dados @ BBTS (Banco do Brasil Tecnologias e Serviços)  
+🌱 **Foco**: Projetos end-to-end (ETL → ML → MLOps) + Desenvolvimento Backend  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/Conecte-se%20no-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@jonashonorato4/desabafos-de-um-jovem-que-descobriu-que-a-vida-real-%C3%A9-s%C3%B3-%C3%A1lgebra-linear-com-interface-bonita-7bb6b417e481" target="_blank">
+    <img src="https://img.shields.io/badge/Meu%20Artigo%20Técnico-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">🧠 Projetos de Ciência de Dados</h3>
-<p allign="center">Projetos com foco em <STRONG>limpeza robusta</STRONG>, <strong>validação estatística</strong> e <strong>modelos interpretáveis</strong></p>
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="left">🔢 Projeto</th>
-      <th align="left">📌 Descrição</th>
-      <th align="left">🚀 Resultados</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-projeto-01-classifica%C3%A7%C3%A3o-da-performance-de-estudantes-1"><strong>Classificação de Estudantes</strong></a></td>
-      <td>Corrigi erros nos rótulos da variável alvo, tratei o desbalanceamento com SMOTE após o split e construí pipelines limpas.</td>
-      <td>✅ Acurácia: 96%<br/>📊 F1-Score (macro): 0.96</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-projeto-02-previs%C3%A3o-de-churn-com-eda-testes-estat%C3%ADsticos-e-rede-neural"><strong>Churn com Estatística + MLP</strong></a></td>
-      <td>Testes estatísticos (Qui², Mann-Whitney, Kruskal-Wallis) combinados com rede neural.</td>
-      <td>📉 F1-Score: 59%<br/>📈 Recall: 67%</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JonasMelo21/Data_Science_Studies/blob/main/README.md#-projeto-03-previs%C3%A3o-de-aluguel-com-regress%C3%A3o-linear-e-classifica%C3%A7%C3%A3o"><strong>Previsão de Aluguel</strong></a></td>
-      <td>Regressão linear com coeficientes interpretáveis e classificação (caro vs barato).</td>
-      <td>📊 R²: 0.82<br/>✅ Acurácia: 84%</td>
-    </tr>
-  </tbody>
-</table>
+## 🛠️ Principais Habilidades  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF6C37?style=for-the-badge&logo=azure-databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-🔍 Repositório completo: [Estudos em Ciência de Dados](https://github.com/JonasMelo21/Data_Science_Studies/)
+**Engenharia de Dados**  
+`Python` | `SQL` | `ETL` | `Spark` | `Airflow` | `Azure Data Factory`  
+
+**ML/MLOps**  
+`Scikit-learn` | `Engenharia de Features` | `Validação Estatística` | `MLflow` | `Azure Databricks`  
+
+**Backend**  
+`FastAPI` | `PostgreSQL` | `Design de Sistemas` | `Azure DevOps`  
+
+**Visualização de Dados**  
+`Power BI` | `Matplotlib` | `Excel`  
+
+**Computação Numérica**  
+`C` | `Algoritmos` | `Otimização`  
 
 ---
 
-## ⚙️ Projetos Backend (Python)
+## � Projetos Destacados
 
-- [**Sistema X-Men**](https://github.com/JonasMelo21/Sistema-X-Men.git)  
-  CRUD completo do Instituto Xavier — alunos, professores, turmas, missões e mais.
+### 🔍 Ciência de Dados & ML
+| Projeto | Descrição | Resultados | Tecnologias |
+|---------|-----------|------------|-------------|
+| **[Classificador de Performance Estudantil](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-01-classifica%C3%A7%C3%A3o-da-performance-de-estudantes-1)** | Correção de labels do Kaggle, balanceamento com SMOTE, pipelines robustos | ✅ 96% Acurácia | `Pandas` `SMOTE` `GridSearch` |
+| **[Predição de Churn (Estatística + MLP)](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-02-previs%C3%A3o-de-churn-com-eda-testes-estat%C3%ADsticos-e-rede-neural)** | Testes de hipótese (Qui², Mann-Whitney) combinados com redes neurais | 📈 67% Recall | `SciPy` `TensorFlow` `SHAP` |
+| **[Predição de Preços de Aluguel](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-03-previs%C3%A3o-de-aluguel-com-regress%C3%A3o-linear-e-classifica%C3%A7%C3%A3o)** | Regressão linear + classificação de preços (interpretável) | 📊 R² 0.82 | `StatsModels` `Matplotlib` |
 
-- [**TaskMaster**](https://github.com/JonasMelo21/TaskMaster.git)  
-  Gerenciador de projetos colaborativo com prioridades, checklists e produtividade.
+### ⚙️ Sistemas Backend
+- **[Sistema X-Men](https://github.com/JonasMelo21/Sistema-X-Men)**  
+  CRUD completo para academia de mutantes com design relacional (`FastAPI` `SQLAlchemy` `Bootstrap`)
 
----
+- **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
+  Gerenciador de tarefas colaborativo com filas de prioridade (`Python` `JSON` `CLI`)
 
-## 📘 Análise Numérica (com C)
-
-> Baseado no livro *Numerical Analysis* de Burden & Faires (10ª edição)
-
-Implementei e documentei soluções em **linguagem C** para:
-
-- 🔢 Raízes de equações (Bisseção, Newton, Secante)
-- 🔁 Sistemas lineares (LU, Gauss, Gauss-Jordan)
-- 🧩 Interpolação (Lagrange, Newton)
-- 📐 Integração e derivação numérica (Trapézio, Simpson)
-- 🧮 Problemas de valor inicial e de contorno (EDOs)
-
-📂 Todo o código está **modularizado e bem comentado**.  
-🔗 [Ver Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies/)
+### 📐 Análise Numérica (C)
+Algoritmos implementados do livro *Burden & Faires*:  
+`Solução de Equações` | `Decomposição Matricial` | `EDOs`  
+🔗 [Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
 
-## 🧰 Visão Geral das Tecnologias
+## 🌟 O Que Define Meu Trabalho
+- **Rigor em Engenharia de ML**: Pipelines reprodutíveis em vez de modelos isolados  
+- **Abordagem em Nuvem**: Uso do stack Azure para soluções escaláveis  
+- **Mentalidade de Produção**: Do notebook à implantação (aprendendo MLOps)  
+- **Visão do Pipeline Completo**: Dados brutos até insights de negócio  
 
-| 💻 Linguagens | ⚙️ Ferramentas & Frameworks | 📊 Focos |
-|--------------|----------------------------|---------|
-| Python, C, SQL | FastAPI, Pandas, Scikit-learn | Ciência de Dados, Análise Numérica |
-| JavaScript (em aprendizado) | Bootstrap, Git, VS Code | Backend, Pensamento Estatístico |
-
----
-
-🎯 Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios ou entrar em contato para colaborações. 🚀
+📫 **Contato**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
+</details>
