@@ -1,5 +1,14 @@
 # 👨‍💻 Jonas Honorato | Data Engineer & ML Developer
 
+🌐 *Available in: [English](#) | [Português](#-versão-em-português)*  
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasMelo21&theme=github-dark-blue" alt="Commit Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasMelo21&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark&hide=html,css" alt="Top Langs"/>
+</p>
+
 🔍 *"Building robust data pipelines and interpretable ML models — from theory to production."*  
 📌 **Currently**: Data Engineering Intern @ BBTS (Banco do Brasil Tecnologias e Serviços)  
 🌱 **Focus**: End-to-end Data Projects (ETL → ML → MLOps) + Backend Development  
@@ -8,8 +17,8 @@
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@jonashonorato4/desabafos-de-um-jovem-que-descobriu-que-a-vida-real-%C3%A9-s%C3%B3-%C3%A1lgebra-linear-com-interface-bonita-7bb6b417e481" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Tech%20Article-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="" target="_blank"> <!-- ADICIONE SEU LINK AQUI -->
+    <img src="https://img.shields.io/badge/View%20Portuguese%20Version-FF5722?style=for-the-badge&logo=google-translate&logoColor=white" alt="Portuguese Version"/>
   </a>
 </p>
 
@@ -32,15 +41,13 @@
 `Scikit-learn` | `Feature Engineering` | `Statistical Validation` | `MLflow` | `Azure Databricks`  
 
 **Data Visualization**  
-`Power BI` | `Matplotlib & Seaborn` | `Excel`  | `Plotly`
-
+`Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
 
 **Backend**  
 `FastAPI` | `PostgreSQL` | `System Design` | `Azure DevOps`  
 
-
 **Numerical Computing**  
-`C` | `Algorithms` | `Optimization` | `Numerical Calculus` | `Numerical Linear Algebra`
+`C` | `Algorithms` | `Optimization` | `Numerical Calculus` | `Numerical Linear Algebra`  
 
 ---
 
@@ -67,14 +74,6 @@ Implemented algorithms from *Burden & Faires*:
 
 ---
 
-## 📈 GitHub Pulse
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasMelo21&theme=github-dark-blue" alt="Commit Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark&hide=html,css" alt="Top Langs"/>
-</p>
-
----
-
 ## 🌟 What Defines My Work
 - **ML with Engineering Rigor**: Focus on reproducible pipelines over one-off models  
 - **Cloud-Native Approach**: Leverage Azure stack for scalable data solutions  
@@ -84,10 +83,15 @@ Implemented algorithms from *Burden & Faires*:
 📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
 
 ---
-<details>
-<summary>🇧🇷 Versão em Português (Clique para expandir)</summary>
 
-# 👨‍💻 Jonas Honorato | Engenheiro de Dados & Desenvolvedor ML
+# 🇧🇷 Versão em Português
+
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasMelo21&theme=github-dark-blue" alt="Sequência de Commits"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JonasMelo21&show_icons=true&theme=github_dark" alt="Estatísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark&hide=html,css" alt="Linguagens Mais Usadas"/>
+</p>
 
 🔍 *"Construindo pipelines robustos e modelos de ML interpretáveis — da teoria à produção."*  
 📌 **Atualmente**: Estagiário em Engenharia de Dados @ BBTS (Banco do Brasil Tecnologias e Serviços)  
@@ -95,10 +99,10 @@ Implemented algorithms from *Burden & Faires*:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/Conecte-se%20no-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@jonashonorato4/desabafos-de-um-jovem-que-descobriu-que-a-vida-real-%C3%A9-s%C3%B3-%C3%A1lgebra-linear-com-interface-bonita-7bb6b417e481" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Artigo%20Técnico-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <a href="" target="_blank"> <!-- ADICIONE SEU LINK AQUI -->
+    <img src="https://img.shields.io/badge/Ver%20Versão%20Inglês-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="English Version"/>
   </a>
 </p>
 
@@ -120,18 +124,18 @@ Implemented algorithms from *Burden & Faires*:
 **ML/MLOps**  
 `Scikit-learn` | `Engenharia de Features` | `Validação Estatística` | `MLflow` | `Azure Databricks`  
 
+**Visualização de Dados**  
+`Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
+
 **Backend**  
 `FastAPI` | `PostgreSQL` | `Design de Sistemas` | `Azure DevOps`  
 
-**Visualização de Dados**  
-`Power BI` | `Matplotlib` | `Excel`  
-
 **Computação Numérica**  
-`C` | `Algoritmos` | `Otimização`  
+`C` | `Algoritmos` | `Otimização` | `Cálculo Numérico` | `Álgebra Linear Numérica`  
 
 ---
 
-## � Projetos Destacados
+## 🚀 Projetos Destacados
 
 ### 🔍 Ciência de Dados & ML
 | Projeto | Descrição | Resultados | Tecnologias |
@@ -160,5 +164,4 @@ Algoritmos implementados do livro *Burden & Faires*:
 - **Mentalidade de Produção**: Do notebook à implantação (aprendendo MLOps)  
 - **Visão do Pipeline Completo**: Dados brutos até insights de negócio  
 
-📫 **Contato**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
-</details>
+📫 **Vamos conversar**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
