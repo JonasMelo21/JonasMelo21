@@ -1,19 +1,28 @@
----
-
 # 👨‍💻 Jonas Honorato | GitHub Profile
 
-📝 *This README is available in English and Portuguese. You can keep reading it in English or  [Click Herefor the PT-BR version.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
+📝 *This README is available in English and Portuguese. You can keep reading in English or [Click here for the PT-BR version.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
 
-📝 *Este README está disponível em inglês e português. Continue lendo se quiser em inglês ou [Clique aqui  para a versão em português.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
+📝 *Este README está disponível em inglês e português. Continue lendo em inglês ou [clique aqui para a versão em português.](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*
+
+---
 
 <!-- Destaque para o LinkedIn -->
 <p align="center">
-  <strong>📫My Profile on Linkedin:</strong><br/>
+  <strong>📫 My Profile on LinkedIn:</strong><br/>
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jonas%20Melo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Jonas Melo"/>
   </a>
 </p>
 
+<!-- Destaque para o artigo no Medium -->
+<p align="center">
+  <strong>✍️ My Latest Article on Medium:</strong><br/>
+  <a href="https://medium.com/@jonashonorato4/desabafos-de-um-jovem-que-descobriu-que-a-vida-real-%C3%A9-s%C3%B3-%C3%A1lgebra-linear-com-interface-bonita-7bb6b417e481" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article Badge"/>
+  </a>
+</p>
+
+<!-- Habilidades Técnicas -->
 <p align="center">Technical Skills</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
