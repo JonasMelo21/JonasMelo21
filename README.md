@@ -1,6 +1,6 @@
 # 👨‍💻 Jonas Honorato | Data Engineer & ML Developer
 
-🌐 *Available in: [English](#) | [Português](#-versão-em-português)*  
+🌐 *Available in: [English](#) | [Português](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*  
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -128,7 +128,7 @@ Implemented algorithms from *Burden & Faires*:
 `Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
 
 **Backend**  
-`FastAPI` | `PostgreSQL` | `Design de Sistemas` | `Azure DevOps`  
+`FastAPI` | `PostgreSQL & MySQL` | `Design de Sistemas` | `Azure DevOps`  
 
 **Computação Numérica**  
 `C` | `Algoritmos` | `Otimização` | `Cálculo Numérico` | `Álgebra Linear Numérica`  
@@ -153,7 +153,7 @@ Implemented algorithms from *Burden & Faires*:
 
 ### 📐 Análise Numérica (C)
 Algoritmos implementados do livro *Burden & Faires*:  
-`Solução de Equações` | `Decomposição Matricial` | `EDOs`  
+`Solução de Equações` | `Álgebra Linear Numérica` | `EDOs`  
 🔗 [Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
