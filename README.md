@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="" target="_blank"> <!-- ADICIONE SEU LINK AQUI -->
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank"> <!-- ADICIONE SEU LINK AQUI -->
     <img src="https://img.shields.io/badge/View%20Portuguese%20Version-FF5722?style=for-the-badge&logo=google-translate&logoColor=white" alt="Portuguese Version"/>
   </a>
 </p>
@@ -35,10 +35,10 @@
 </p>
 
 **Data Engineering**  
-`Python` | `SQL` | `ETL` | `Spark` | `Airflow` | `Azure Data Factory`  
+`Python` | `SQL` | `ETL` | `Spark` | `Databricks` | `Azure Data Factory` | `Azure DevOps`|
 
 **ML/MLOps**  
-`Scikit-learn` | `Feature Engineering` | `Statistical Validation` | `MLflow` | `Azure Databricks`  
+`Scikit-learn` | `Feature Engineering` | `Statistical Validation` | `Python Notebooks` | `Azure Databricks`  
 
 **Data Visualization**  
 `Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
@@ -62,14 +62,14 @@
 
 ### ⚙️ Backend Systems
 - **[X-Men Management System](https://github.com/JonasMelo21/Sistema-X-Men)**  
-  Full CRUD for mutant academy with relational DB design (`FastAPI` `SQLAlchemy` `Bootstrap`)
+  Full CRUD for mutant academy with relational DB design (`FastAPI` `SQLAlchemy` `Tkinter UI`)
 
 - **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
-  Collaborative task manager with priority queues (`Python` `JSON` `CLI`)
+  Collaborative task manager with priority queues (`Python` `Flask` `Business Rules & SQL`)
 
 ### 📐 Numerical Analysis (C)
 Implemented algorithms from *Burden & Faires*:  
-`Non-linear Solvers` | `Matrix Decomposition` | `ODE Solvers`  
+`Equation Solving` | `Numerical Linear Algebra` | `Eigenvectors and Eigenvalues` | `Linear and Nonlinear Systems` | `ODEs` 
 🔗 [Repository](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
@@ -128,7 +128,7 @@ Implemented algorithms from *Burden & Faires*:
 `Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
 
 **Backend**  
-`FastAPI` | `PostgreSQL & MySQL` | `Design de Sistemas` | `Azure DevOps`  
+`FastAPI` | `PostgreSQL & MySQL` | `Design de Sistemas` | `Tkinter UI`  
 
 **Computação Numérica**  
 `C` | `Algoritmos` | `Otimização` | `Cálculo Numérico` | `Álgebra Linear Numérica`  
@@ -153,7 +153,7 @@ Implemented algorithms from *Burden & Faires*:
 
 ### 📐 Análise Numérica (C)
 Algoritmos implementados do livro *Burden & Faires*:  
-`Solução de Equações` | `Álgebra Linear Numérica` | `EDOs`  
+`Solução de Equações` | `Álgebra Linear Numérica` | `Autovetores e Autovalores`|`Sistemas Lineares e Não Lineares`| `EDOs`  
 🔗 [Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
