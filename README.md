@@ -1,6 +1,6 @@
 # 👨‍💻 Jonas Honorato | Data Engineer & ML Developer
 
-🌐 *Available in: [English](#) | [Português](https://github.com/JonasMelo21/JonasMelo21/tree/main?tab=readme-ov-file#-vers%C3%A3o-em-portugu%C3%AAs)*  
+🌐 *Scroll down to keep reading this README in English or Click here for Pt-br version --> [Versão em Português](https://github.com/JonasMelo21/#-vers%C3%A3o-em-portugu%C3%AAs)*  
 
 ## 📈 GitHub Stats
 <p align="center">
