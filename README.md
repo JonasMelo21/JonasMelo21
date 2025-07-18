@@ -44,7 +44,7 @@
 `Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
 
 **Backend**  
-`FastAPI` | `PostgreSQL` | `System Design` | `Azure DevOps`  
+`FastAPI` |`Flask`| `PostgreSQL` | `System Design` | `Azure DevOps`  
 
 **Numerical Computing**  
 `C` | `Algorithms` | `Optimization` | `Numerical Calculus` | `Numerical Linear Algebra`  
