@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank"> <!-- ADICIONE SEU LINK AQUI -->
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portuguese%20Version-FF5722?style=for-the-badge&logo=google-translate&logoColor=white" alt="Portuguese Version"/>
   </a>
 </p>
@@ -34,31 +34,39 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-**Data Engineering**  
-`Python` | `SQL` | `ETL` | `Spark` | `Databricks` | `Azure Data Factory` | `Azure DevOps`|
 
-**ML/MLOps**  
-`Scikit-learn` | `Feature Engineering` | `Statistical Validation` | `Python Notebooks` | `Azure Databricks`  
+## 🛠️ Tech Stack
+- Data Engineering/MLOps: Python SQL ETL Spark Databricks Azure Data Factory Azure DevOps
 
-**Data Visualization**  
-`Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
+- ML: Scikit-learn Feature Eng Stats Validation Azure Databricks
 
-**Backend**  
-`FastAPI` |`Flask`| `PostgreSQL` | `System Design` | `Azure DevOps`  
+- Visualization: Power BI Matplotlib/Seaborn Excel Plotly
 
-**Numerical Computing**  
-`C` | `Algorithms` | `Optimization` | `Numerical Calculus` | `Numerical Linear Algebra`  
+- Backend: FastAPI Flask PostgreSQL System Design
 
----
+- Numerical: C Algorithms Optimization Numerical Methods
 
 ## 🚀 Highlighted Projects
 
 ### 🔍 Data Science & ML
-| Project | Description | Results | Technologies |
-|---------|-------------|---------|--------------|
-| **[Student Performance Classifier](https://github.com/JonasMelo21/Data_Science_Studies#-project-01-student-performance-classification-1)** | Fixed Kaggle label errors, SMOTE imbalance handling, clean pipelines | ✅ 96% Accuracy | `Pandas` `SMOTE` `GridSearch` |
-| **[Churn Prediction (Stats + MLP)](https://github.com/JonasMelo21/Data_Science_Studies#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks)** | Combined hypothesis testing (Chi², Mann-Whitney) with neural networks | 📈 67% Recall | `SciPy` `TensorFlow` `SHAP` |
-| **[Rent Price Prediction](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)** | Linear regression + price classification (business interpretable) | 📊 R² 0.82 | `StatsModels` `Matplotlib` |
+
+#### 🎓 Student Performance Classifier | [View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-01-student-performance-classification-1)
+- **Challenge**: Kaggle dataset contained label errors in target variable
+- **Solution**: Manual label correction + SMOTE after train-test split
+- **Results**: 96% Accuracy | F1-score 0.96
+- **Tech**: `Pandas` `SMOTE` `GridSearch` `Pipeline Design`
+
+#### 📉 Churn Prediction (Stats + MLP) | [View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks)
+- **Approach**: Combined hypothesis testing (Chi², Mann-Whitney) with neural networks
+- **Insights**: Age > 40 doubles churn risk | German customers churn more
+- **Results**: 67% Recall | 82% Accuracy
+- **Tech**: `SciPy` `TensorFlow` `SHAP` `Statistical Validation`
+
+#### 🏠 Rent Price Prediction | [View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)
+- **Dual Approach**: Linear regression + price classification (business-interpretable)
+- **Key Findings**: +R$24.03/m² | -R$51.10/km from center
+- **Results**: R² 0.82 | Classification Accuracy 84%
+- **Tech**: `StatsModels` `Matplotlib` `Business Rules`
 
 ### ⚙️ Backend Systems
 - **[X-Men Management System](https://github.com/JonasMelo21/Sistema-X-Men)**  
@@ -101,7 +109,7 @@ Implemented algorithms from *Burden & Faires*:
   <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
     <img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="" target="_blank"> <!-- ADICIONE SEU LINK AQUI -->
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Versão%20Inglês-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="English Version"/>
   </a>
 </p>
@@ -119,16 +127,16 @@ Implemented algorithms from *Burden & Faires*:
 </p>
 
 **Engenharia de Dados**  
-`Python` | `SQL` | `ETL` | `Spark` | `Airflow` | `Azure Data Factory`  
+`Python` | `SQL` | `ETL` | `Spark` | `Databricks` | `Azure Data Factory`  
 
 **ML/MLOps**  
-`Scikit-learn` | `Engenharia de Features` | `Validação Estatística` | `MLflow` | `Azure Databricks`  
+`Scikit-learn` | `Engenharia de Features` | `Validação Estatística` | `Jupyter Notebooks` | `Azure Databricks`  
 
 **Visualização de Dados**  
 `Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
 
 **Backend**  
-`FastAPI` | `PostgreSQL & MySQL` | `Design de Sistemas` | `Tkinter UI`  
+`FastAPI` | `Flask` | `PostgreSQL` | `Design de Sistemas` | `Azure DevOps`  
 
 **Computação Numérica**  
 `C` | `Algoritmos` | `Otimização` | `Cálculo Numérico` | `Álgebra Linear Numérica`  
@@ -138,22 +146,35 @@ Implemented algorithms from *Burden & Faires*:
 ## 🚀 Projetos Destacados
 
 ### 🔍 Ciência de Dados & ML
-| Projeto | Descrição | Resultados | Tecnologias |
-|---------|-----------|------------|-------------|
-| **[Classificador de Performance Estudantil](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-01-classifica%C3%A7%C3%A3o-da-performance-de-estudantes-1)** | Correção de labels do Kaggle, balanceamento com SMOTE, pipelines robustos | ✅ 96% Acurácia | `Pandas` `SMOTE` `GridSearch` |
-| **[Predição de Churn (Estatística + MLP)](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-02-previs%C3%A3o-de-churn-com-eda-testes-estat%C3%ADsticos-e-rede-neural)** | Testes de hipótese (Qui², Mann-Whitney) combinados com redes neurais | 📈 67% Recall | `SciPy` `TensorFlow` `SHAP` |
-| **[Predição de Preços de Aluguel](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-03-previs%C3%A3o-de-aluguel-com-regress%C3%A3o-linear-e-classifica%C3%A7%C3%A3o)** | Regressão linear + classificação de preços (interpretável) | 📊 R² 0.82 | `StatsModels` `Matplotlib` |
+
+#### 🎓 Classificador de Performance Estudantil | [Ver Projeto](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-01-classifica%C3%A7%C3%A3o-da-performance-de-estudantes-1)
+- **Desafio**: Dataset do Kaggle continha erros nos rótulos da variável alvo
+- **Solução**: Correção manual + SMOTE após divisão treino-teste
+- **Resultados**: 96% Acurácia | F1-score 0.96
+- **Tecnologias**: `Pandas` `SMOTE` `GridSearch` `Pipelines`
+
+#### 📉 Predição de Churn (Estatística + MLP) | [Ver Projeto](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-02-previs%C3%A3o-de-churn-com-eda-testes-estat%C3%ADsticos-e-rede-neural)
+- **Abordagem**: Testes de hipótese (Qui², Mann-Whitney) combinados com redes neurais
+- **Insights**: Idade > 40 dobra risco de churn | Clientes alemães saem mais
+- **Resultados**: 67% Recall | 82% Acurácia
+- **Tecnologias**: `SciPy` `TensorFlow` `SHAP` `Validação Estatística`
+
+#### 🏠 Predição de Preços de Aluguel | [Ver Projeto](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-03-previs%C3%A3o-de-aluguel-com-regress%C3%A3o-linear-e-classifica%C3%A7%C3%A3o)
+- **Abordagem Dupla**: Regressão linear + classificação de preços (interpretável)
+- **Coeficientes**: +R$24,03/m² | -R$51,10/km do centro
+- **Resultados**: R² 0.82 | Acurácia 84%
+- **Tecnologias**: `StatsModels` `Matplotlib` `Regras de Negócio`
 
 ### ⚙️ Sistemas Backend
 - **[Sistema X-Men](https://github.com/JonasMelo21/Sistema-X-Men)**  
-  CRUD completo para academia de mutantes com design relacional (`FastAPI` `SQLAlchemy` `Bootstrap`)
+  CRUD completo para academia de mutantes com banco relacional (`FastAPI` `SQLAlchemy` `Tkinter UI`)
 
 - **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
-  Gerenciador de tarefas colaborativo com filas de prioridade (`Python` `JSON` `CLI`)
+  Gerenciador de tarefas colaborativo com filas de prioridade (`Python` `Flask` `Regras de Negócio`)
 
 ### 📐 Análise Numérica (C)
 Algoritmos implementados do livro *Burden & Faires*:  
-`Solução de Equações` | `Álgebra Linear Numérica` | `Autovetores e Autovalores`|`Sistemas Lineares e Não Lineares`| `EDOs`  
+`Solução de Equações` | `Álgebra Linear Numérica` | `Autovetores e Autovalores` | `Sistemas Lineares e Não Lineares` | `EDOs`  
 🔗 [Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
