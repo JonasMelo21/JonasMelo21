@@ -41,7 +41,7 @@
   -  SQL
   -  ETL
   -  Spark
-  -  Databricks
+  -  Azure Databricks
   -  Azure Data Factory
   -  Azure DevOps
 
