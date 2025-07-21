@@ -36,15 +36,39 @@
 
 
 ## 🛠️ Tech Stack
-- Data Engineering/MLOps: Python SQL ETL Spark Databricks Azure Data Factory Azure DevOps
+- Data Engineering/MLOps:
+  -  Python
+  -  SQL
+  -  ETL
+  -  Spark
+  -  Databricks
+  -  Azure Data Factory
+  -  Azure DevOps
 
-- ML: Scikit-learn Feature Eng Stats Validation Azure Databricks
+- ML:
+  - Scikit-learn
+  - Feature Engineering
+  - Statisticss
+  - Validation
+  - Azure Databricks
 
-- Visualization: Power BI Matplotlib/Seaborn Excel Plotly
+- Visualization:
+  - Power BI
+  - Matplotlib & Seaborn
+  - Excel
+  - Plotly
 
-- Backend: FastAPI Flask PostgreSQL System Design
+- Backend:
+  - FastAPI
+  - Flask
+  - PostgreSQL
+  - System Design
 
-- Numerical: C Algorithms Optimization Numerical Methods
+- Numerical:
+  - C
+  - Algorithms
+  - Optimization
+  - Numerical Methods
 
 ## 🚀 Highlighted Projects
 
