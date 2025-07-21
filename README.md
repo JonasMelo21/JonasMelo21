@@ -74,19 +74,19 @@
 
 ### 🔍 Data Science & ML
 
-#### 🎓 Student Performance Classifier | [View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-01-student-performance-classification-1)
+#### 🎓 Student Performance Classifier | [Click Here to View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-01-student-performance-classification-1)
 - **Challenge**: Kaggle dataset contained label errors in target variable
 - **Solution**: Manual label correction + SMOTE after train-test split
 - **Results**: 96% Accuracy | F1-score 0.96
 - **Tech**: `Pandas` `SMOTE` `GridSearch` `Pipeline Design`
 
-#### 📉 Churn Prediction (Stats + MLP) | [View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks)
+#### 📉 Churn Prediction (Stats + MLP) | [Click Here to View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-02-churn-prediction-with-eda-statistical-tests--neural-networks)
 - **Approach**: Combined hypothesis testing (Chi², Mann-Whitney) with neural networks
 - **Insights**: Age > 40 doubles churn risk | German customers churn more
 - **Results**: 67% Recall | 82% Accuracy
 - **Tech**: `SciPy` `TensorFlow` `SHAP` `Statistical Validation`
 
-#### 🏠 Rent Price Prediction | [View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)
+#### 🏠 Rent Price Prediction | [Click Here to View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)
 - **Dual Approach**: Linear regression + price classification (business-interpretable)
 - **Key Findings**: +R$24.03/m² | -R$51.10/km from center
 - **Results**: R² 0.82 | Classification Accuracy 84%
