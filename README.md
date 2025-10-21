@@ -111,13 +111,6 @@ Implemented algorithms from *Burden & Faires*:
 
 # 🇧🇷 Versão em Português
 
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasMelo21&theme=github-dark-blue" alt="Sequência de Commits"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasMelo21&show_icons=true&theme=github_dark" alt="Estatísticas GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark&hide=html,css" alt="Linguagens Mais Usadas"/>
-</p>
-
 🔍 *"Construindo pipelines robustos e modelos de ML interpretáveis — da teoria à produção."*  
 📌 **Atualmente**: Estagiário em Engenharia de Dados @ BBTS (Banco do Brasil Tecnologias e Serviços)  
 🌱 **Foco**: Projetos end-to-end (ETL → ML → MLOps) + Desenvolvimento Backend  
