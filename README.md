@@ -2,13 +2,6 @@
 
 🌐 *Scroll down to keep reading this README in English or Click here for Pt-br version --> [Versão em Português](https://github.com/JonasMelo21/#-vers%C3%A3o-em-portugu%C3%AAs)*  
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasMelo21&theme=github-dark-blue" alt="Commit Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasMelo21&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMelo21&layout=compact&theme=github_dark&hide=html,css" alt="Top Langs"/>
-</p>
-
 🔍 *"Building robust data pipelines and interpretable ML models — from theory to production."*  
 📌 **Currently**: Data Engineering Intern @ BBTS (Banco do Brasil Tecnologias e Serviços)  
 🌱 **Focus**: End-to-end Data Projects (ETL → ML → MLOps) + Backend Development  
