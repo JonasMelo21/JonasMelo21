@@ -1,67 +1,73 @@
 # 👨‍💻 Jonas Honorato | Data Engineer & ML Developer
 
-🌐 *Scroll down to keep reading this README in English or Click here for Pt-br version --> [Versão em Português](https://github.com/JonasMelo21/#-vers%C3%A3o-em-portugu%C3%AAs)*  
+🌐 *Scroll down to keep reading this README in English or Click here for Pt-br version --> [Versão em Português](https://github.com/JonasMelo21/#-vers%C3%A3o-em-portugu%C3%AAs)*  
 
-🔍 *"Building robust data pipelines and interpretable ML models — from theory to production."*  
-📌 **Currently**: Data Engineering Intern @ BBTS (Banco do Brasil Tecnologias e Serviços)  
-🌱 **Focus**: End-to-end Data Projects (ETL → ML → MLOps) + Backend Development  
+🔍 *"Building robust data pipelines and interpretable ML models — from theory to production."*  
+📌 **Currently**: Data Engineering Intern @ BBTS (Banco do Brasil Tecnologias e Serviços)  
+🌱 **Focus**: End-to-end Data Projects (ETL → ML → MLOps) + Backend Development  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portuguese%20Version-FF5722?style=for-the-badge&logo=google-translate&logoColor=white" alt="Portuguese Version"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/JonasMelo21/#-vers%C3%A3o-em-portugu%C3%AAs" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portuguese%20Version-FF5722?style=for-the-badge&logo=google-translate&logoColor=white" alt="Portuguese Version"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Core Skills  
+## 🏆 My Badges & Certifications
+
+[![An image of @jonasmelo21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jonasmelo21)](https://holopin.io/@jonasmelo21)
+
+---
+## 🛠️ Core Skills
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Databricks-FF6C37?style=for-the-badge&logo=azure-databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF6C37?style=for-the-badge&logo=azure-databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 
 ## 🛠️ Tech Stack
 - Data Engineering/MLOps:
-  -  Python
-  -  SQL
-  -  ETL
-  -  Spark
-  -  Azure Databricks
-  -  Azure Data Factory
-  -  Azure DevOps
+  -  Python
+  -  SQL
+  -  ETL
+  -  Spark
+  -  Azure Databricks
+  -  Azure Data Factory
+  -  Azure DevOps
 
 - ML:
-  - Scikit-learn
-  - Feature Engineering
-  - Statisticss
-  - Validation
-  - Azure Databricks
+  - Scikit-learn
+  - Feature Engineering
+  - Statisticss
+  - Validation
+  - Azure Databricks
 
 - Visualization:
-  - Power BI
-  - Matplotlib & Seaborn
-  - Excel
-  - Plotly
+  - Power BI
+  - Matplotlib & Seaborn
+  - Excel
+  - Plotly
 
 - Backend:
-  - FastAPI
-  - Flask
-  - PostgreSQL
-  - System Design
+  - FastAPI
+  - Flask
+  - PostgreSQL
+  - System Design
 
 - Numerical:
-  - C
-  - Algorithms
-  - Optimization
-  - Numerical Methods
+  - C
+  - Algorithms
+  - Optimization
+  - Numerical Methods
 
 ## 🚀 Highlighted Projects
 
@@ -79,77 +85,82 @@
 - **Results**: 67% Recall | 82% Accuracy
 - **Tech**: `SciPy` `TensorFlow` `SHAP` `Statistical Validation`
 
-#### 🏠 Rent Price Prediction | [Click Here to View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)
+#### 🏠 Rent Price Prediction | [Click Here toView Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-03-rent-price-prediction-with-regression--classification)
 - **Dual Approach**: Linear regression + price classification (business-interpretable)
 - **Key Findings**: +R$24.03/m² | -R$51.10/km from center
 - **Results**: R² 0.82 | Classification Accuracy 84%
 - **Tech**: `StatsModels` `Matplotlib` `Business Rules`
 
 ### ⚙️ Backend Systems
-- **[X-Men Management System](https://github.com/JonasMelo21/Sistema-X-Men)**  
-  Full CRUD for mutant academy with relational DB design (`FastAPI` `SQLAlchemy` `Tkinter UI`)
+- **[X-Men Management System](https://github.com/JonasMelo21/Sistema-X-Men)**  
+  Full CRUD for mutant academy with relational DB design (`FastAPI` `SQLAlchemy` `Tkinter UI`)
 
-- **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
-  Collaborative task manager with priority queues (`Python` `Flask` `Business Rules & SQL`)
+- **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
+  Collaborative task manager with priority queues (`Python` `Flask` `Business Rules & SQL`)
 
 ### 📐 Numerical Analysis (C)
-Implemented algorithms from *Burden & Faires*:  
-`Equation Solving` | `Numerical Linear Algebra` | `Eigenvectors and Eigenvalues` | `Linear and Nonlinear Systems` | `ODEs` 
+Implemented algorithms from *Burden & Faires*:  
+`Equation Solving` | `Numerical Linear Algebra` | `Eigenvectors and Eigenvalues` | `Linear and Nonlinear Systems` | `ODEs` 
 🔗 [Repository](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
 
 ## 🌟 What Defines My Work
-- **ML with Engineering Rigor**: Focus on reproducible pipelines over one-off models  
-- **Cloud-Native Approach**: Leverage Azure stack for scalable data solutions  
-- **Production Mindset**: From notebooks to deployable systems (learning MLOps)  
-- **Full Pipeline Awareness**: From raw data to business insights  
+- **ML with Engineering Rigor**: Focus on reproducible pipelines over one-off models  
+- **Cloud-Native Approach**: Leverage Azure stack for scalable data solutions  
+- **Production Mindset**: From notebooks to deployable systems (learning MLOps)  
+- **Full Pipeline Awareness**: From raw data to business insights  
 
-📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
+📫 **Let's connect**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
 
 ---
 
 # 🇧🇷 Versão em Português
 
-🔍 *"Construindo pipelines robustos e modelos de ML interpretáveis — da teoria à produção."*  
-📌 **Atualmente**: Estagiário em Engenharia de Dados @ BBTS (Banco do Brasil Tecnologias e Serviços)  
-🌱 **Foco**: Projetos end-to-end (ETL → ML → MLOps) + Desenvolvimento Backend  
+🔍 *"Construindo pipelines robustos e modelos de ML interpretáveis — da teoria à produção."*  
+📌 **Atualmente**: Estagiário em Engenharia de Dados @ BBTS (Banco do Brasil Tecnologias e Serviços)  
+🌱 **Foco**: Projetos end-to-end (ETL → ML → MLOps) + Desenvolvimento Backend  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
-    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Versão%20Inglês-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="English Version"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jonas-honorato-melo/" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Versão%20Inglês-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="English Version"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Principais Habilidades  
+## 🏆 Meus Badges e Certificações
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_Databricks-FF6C37?style=for-the-badge&logo=azure-databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  [![An image of @jonasmelo21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jonasmelo21)](https://holopin.io/@jonasmelo21)
 </p>
 
-**Engenharia de Dados**  
-`Python` | `SQL` | `ETL` | `Spark` | `Databricks` | `Azure Data Factory`  
+## 🛠️ Principais Habilidades  
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=azure-data-factory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF6C37?style=for-the-badge&logo=azure-databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-**ML/MLOps**  
-`Scikit-learn` | `Engenharia de Features` | `Validação Estatística` | `Jupyter Notebooks` | `Azure Databricks`  
+**Engenharia de Dados**  
+`Python` | `SQL` | `ETL` | `Spark` | `Databricks` | `Azure Data Factory`  
 
-**Visualização de Dados**  
-`Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
+**ML/MLOps**  
+`Scikit-learn` | `Engenharia de Features` | `Validação Estatística` | `Jupyter Notebooks` | `Azure Databricks`  
 
-**Backend**  
-`FastAPI` | `Flask` | `PostgreSQL` | `Design de Sistemas` | `Azure DevOps`  
+**Visualização de Dados**  
+`Power BI` | `Matplotlib & Seaborn` | `Excel` | `Plotly`  
 
-**Computação Numérica**  
-`C` | `Algoritmos` | `Otimização` | `Cálculo Numérico` | `Álgebra Linear Numérica`  
+**Backend**  
+`FastAPI` | `Flask` | `PostgreSQL` | `Design de Sistemas` | `Azure DevOps`  
+
+**Computação Numérica**  
+`C` | `Algoritmos` | `Otimização` | `Cálculo Numérico` | `Álgebra Linear Numérica`  
 
 ---
 
@@ -176,23 +187,23 @@ Implemented algorithms from *Burden & Faires*:
 - **Tecnologias**: `StatsModels` `Matplotlib` `Regras de Negócio`
 
 ### ⚙️ Sistemas Backend
-- **[Sistema X-Men](https://github.com/JonasMelo21/Sistema-X-Men)**  
-  CRUD completo para academia de mutantes com banco relacional (`FastAPI` `SQLAlchemy` `Tkinter UI`)
+- **[Sistema X-Men](https://github.com/JonasMelo21/Sistema-X-Men)**  
+  CRUD completo para academia de mutantes com banco relacional (`FastAPI` `SQLAlchemy` `Tkinter UI`)
 
-- **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
-  Gerenciador de tarefas colaborativo com filas de prioridade (`Python` `Flask` `Regras de Negócio`)
+- **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)**  
+  Gerenciador de tarefas colaborativo com filas de prioridade (`Python` `Flask` `Regras de Negócio`)
 
 ### 📐 Análise Numérica (C)
-Algoritmos implementados do livro *Burden & Faires*:  
-`Solução de Equações` | `Álgebra Linear Numérica` | `Autovetores e Autovalores` | `Sistemas Lineares e Não Lineares` | `EDOs`  
+Algoritmos implementados do livro *Burden & Faires*:  
+`Solução de Equações` | `Álgebra Linear Numérica` | `Autovetores e Autovalores` | `Sistemas Lineares e Não Lineares` | `EDOs`  
 🔗 [Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
 
 ---
 
 ## 🌟 O Que Define Meu Trabalho
-- **Rigor em Engenharia de ML**: Pipelines reprodutíveis em vez de modelos isolados  
-- **Abordagem em Nuvem**: Uso do stack Azure para soluções escaláveis  
-- **Mentalidade de Produção**: Do notebook à implantação (aprendendo MLOps)  
-- **Visão do Pipeline Completo**: Dados brutos até insights de negócio  
+- **Rigor em Engenharia de ML**: Pipelines reprodutíveis em vez de modelos isolados  
+- **Abordagem em Nuvem**: Uso do stack Azure para soluções escaláveis  
+- **Mentalidade de Produção**: Do notebook à implantação (aprendendo MLOps)  
+- **Visão do Pipeline Completo**: Dados brutos até insights de negócio  
 
-📫 **Vamos conversar**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com  
+📫 **Vamos conversar**: [LinkedIn](https://www.linkedin.com/in/jonas-honorato-melo/) | jonashonorato4@gmail.com
