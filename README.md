@@ -76,6 +76,11 @@
 - **Outcome**: Deployed interactive Streamlit app with CI/CD, creating a usable product from raw data.
 - **Tech**: `Python` `Scikit-Learn` `Streamlit` `Plotly` `RapidAPI`
 
+#### 🤖 mini_ml: Minimal ML Library | [Click Here to View Project](https://github.com/JonasMelo21/mini_ml)
+- **Scope**: Educational ML library built from scratch for learning core algorithms.
+- **Contents**: KNN, linear/logistic regression, preprocessing, optimization, and stats utilities.
+- **Tech**: `Python`
+
 #### 🎓 Student Performance Classifier | [Click Here to View Project](https://github.com/JonasMelo21/Data_Science_Studies#-project-01-student-performance-classification-1)
 - **Challenge**: Kaggle dataset contained label errors in target variable
 - **Solution**: Manual label correction + SMOTE after train-test split
@@ -99,7 +104,11 @@
 
 - **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)** Collaborative task manager with priority queues (`Python` `Flask` `Business Rules & SQL`)
 
-### 📐 Numerical Analysis (C)
+### 📐 Numerical Analysis / Numerical Computing
+#### 🧮 NumLab: Numerical Computing Lab | [Click Here to View Project](https://github.com/JonasMelo21/NumLab)
+- **Scope**: Interactive numerical computing lab for root-finding methods with visual animations.
+- **Tech**: `Python` `FastAPI` `React` `TypeScript`
+
 Implemented algorithms from *Burden & Faires*:  
 `Equation Solving` | `Numerical Linear Algebra` | `Eigenvectors and Eigenvalues` | `Linear and Nonlinear Systems` | `ODEs` 
 🔗 [Repository](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
@@ -169,6 +178,11 @@ Implemented algorithms from *Burden & Faires*:
 - **Resultado**: Dashboard interativo em Streamlit com CI/CD, transformando dados brutos em produto utilizável.
 - **Tecnologias**: `Python` `Scikit-Learn` `Streamlit` `Plotly` `RapidAPI`
 
+#### 🤖 mini_ml: Biblioteca de ML Minimalista | [Ver Projeto](https://github.com/JonasMelo21/mini_ml)
+- **Escopo**: Biblioteca educacional de ML implementada do zero para estudo.
+- **Conteúdo**: KNN, regressões linear/logística, pré-processamento, otimização e estatística.
+- **Tecnologias**: `Python`
+
 #### 🎓 Classificador de Performance Estudantil | [Ver Projeto](https://github.com/JonasMelo21/Data_Science_Studies#-projeto-01-classifica%C3%A7%C3%A3o-da-performance-de-estudantes-1)
 - **Desafio**: Dataset do Kaggle continha erros nos rótulos da variável alvo
 - **Solução**: Correção manual + SMOTE após divisão treino-teste
@@ -192,7 +206,11 @@ Implemented algorithms from *Burden & Faires*:
 
 - **[TaskMaster](https://github.com/JonasMelo21/TaskMaster)** Gerenciador de tarefas colaborativo com filas de prioridade (`Python` `Flask` `Regras de Negócio`)
 
-### 📐 Análise Numérica (C)
+### 📐 Análise Numérica / Computação Numérica
+#### 🧮 NumLab: Laboratório de Computação Numérica | [Ver Projeto](https://github.com/JonasMelo21/NumLab)
+- **Escopo**: Laboratório interativo para métodos de busca de raízes com animações visuais.
+- **Tecnologias**: `Python` `FastAPI` `React` `TypeScript`
+
 Algoritmos implementados do livro *Burden & Faires*:  
 `Solução de Equações` | `Álgebra Linear Numérica` | `Autovetores e Autovalores` | `Sistemas Lineares e Não Lineares` | `EDOs`  
 🔗 [Repositório](https://github.com/JonasMelo21/Numerical-Analysis-Studies)
